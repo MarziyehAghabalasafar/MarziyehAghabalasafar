@@ -7,7 +7,7 @@ I'm Marziyeh, a passionate Computer Science student with a strong foundation in 
 My expertise includes:
 
 - <b>Programming Languages:</b> Proficient in Python
-- <b>Data Science Tools:</b> Experienced with Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn
+- <b>Data Science Tools:</b> Experienced with Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, and SciKit-Learn
 - <b>Machine Learning:</b> Familiar with PyTorch
 - <b>Development Environments:</b> Comfortable using PyCharm
 

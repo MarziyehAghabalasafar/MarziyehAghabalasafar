@@ -22,6 +22,5 @@ Special thanks to <a href="https://github.com/mhmdjgh">@mhmdjgh</a> for all his 
 
 
 
-<img src="https://myreadme.vercel.app/api/embed/MarziyehAghabalasafar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<img src="https://myreadme.vercel.app/api/embed/MarziyehAghabalasafar?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 

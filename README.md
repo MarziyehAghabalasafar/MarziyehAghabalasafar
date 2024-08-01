@@ -1,7 +1,5 @@
 
-![photo_2024-08-01_06-28-41](https://github.com/user-attachments/assets/1636b8ce-bdb8-4cf0-b79b-ad7ae09f37bd)
-
-## Hi 👋, I'm Marziyeh Aghabalasafar
+# Hi 👋, I'm Marziyeh Aghabalasafar
 
 ### About Me
 

@@ -16,7 +16,6 @@ Currently, I'm working on my university final project, which focuses on the book
 
 I’m always eager to learn new technologies and improve my skills. Feel free to connect with me!
 
-Special thanks to <a href="https://github.com/mhmdjgh">@mhmdjgh</a> for all his helps.
 
 <img src="https://komarev.com/ghpvc/?username=MarziyehAghabalasafar&color=brightgreen" alt="watching_count" />
 

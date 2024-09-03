@@ -21,6 +21,3 @@ I’m always eager to learn new technologies and improve my skills. Feel free to
 
 
 
-
-<img src="https://myreadme.vercel.app/api/embed/MarziyehAghabalasafar?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-

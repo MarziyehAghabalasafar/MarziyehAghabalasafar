@@ -12,8 +12,6 @@ My expertise includes:
 - <b>Machine Learning:</b> Familiar with PyTorch
 - <b>Development Environments:</b> Comfortable using PyCharm
 
-Currently, I'm working on my university final project, which focuses on the book <b>*Python for Programmers with Introductory AI Case Studies*</b> by Deitel & Deitel. This project allows me to deepen my understanding of both Python and AI concepts while applying theoretical knowledge to practical scenarios.
-
 I’m always eager to learn new technologies and improve my skills. Feel free to connect with me!
 
 

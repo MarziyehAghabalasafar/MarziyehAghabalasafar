@@ -17,5 +17,6 @@ I’m always eager to learn new technologies and improve my skills. Feel free to
 
 <img src="https://komarev.com/ghpvc/?username=MarziyehAghabalasafar&color=brightgreen" alt="watching_count" />
 
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MarziyehAghabalasafar&count_private=true&theme=radical)
 
 

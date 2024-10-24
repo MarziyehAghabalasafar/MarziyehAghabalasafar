@@ -19,7 +19,7 @@ I’m always eager to learn new technologies and improve my skills. Feel free to
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MarziyehAghabalasafar&count_private=true&theme=radical)
 
-<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarziyehAghabalasafar&show_icons=true&theme=radical)
 
 

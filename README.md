@@ -9,7 +9,6 @@ My expertise includes:
 
 - <b>Programming Languages:</b> Proficient in Python
 - <b>Data Science Tools:</b> Experienced with Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, and SciKit-Learn
-- <b>Machine Learning:</b> Familiar with PyTorch
 - <b>Development Environments:</b> Comfortable using PyCharm
 
 I’m always eager to learn new technologies and improve my skills. Feel free to connect with me!

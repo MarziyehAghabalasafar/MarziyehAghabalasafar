@@ -5,21 +5,22 @@
 
 I'm Marziyeh, a passionate Computer Science student with a strong foundation in Python programming. I enjoy collaborating with others and thrive in team environments where I can learn and grow.
 
-My expertise includes:
+<!--  My expertise includes:
 
 - <b>Programming Languages:</b> Proficient in Python
 - <b>Data Science Tools:</b> Experienced with Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, and SciKit-Learn
 - <b>Development Environments:</b> Comfortable using PyCharm
 
+-->
 I’m always eager to learn new technologies and improve my skills. Feel free to connect with me!
 
 
 <img src="https://komarev.com/ghpvc/?username=MarziyehAghabalasafar&color=brightgreen" alt="watching_count" />
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarziyehAghabalasafar&layout=compact&theme=radical)
+<!--  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarziyehAghabalasafar&layout=compact&theme=radical)   -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarziyehAghabalasafar&show_icons=true&theme=radical)
+<!--    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarziyehAghabalasafar&show_icons=true&theme=radical)   -->
 
 
 

@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋, I'm Marziyeh Aghabalasafar </h1>
+<h1 align="center"> Hi 👋, I'm Marziyeh</h1>
 
 ### About Me
 

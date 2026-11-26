@@ -10,8 +10,7 @@ Through academic research and project work, I have gained experience in data pre
 
 I welcome connections with researchers, professors, and practitioners interested in artificial intelligence and data science.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MarziyehAghabalasafar-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarziyehAghabalasafar) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/) <img src="https://komarev.com/ghpvc/?username=MarziyehAghabalasafar&color=blue" alt="Profile views" />
-
+[![GitHub](https://img.shields.io/badge/GitHub-MarziyehAghabalasafar-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarziyehAghabalasafar) <img src="https://komarev.com/ghpvc/?username=MarziyehAghabalasafar&color=blue" alt="Profile views" />
 ## Technical Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=flat&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
